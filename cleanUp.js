@@ -8,39 +8,50 @@
 
 
 // EX 1:
-function nameQuestion() {
+function printNameQuestion() {
   console.log("Hello, what is your name?")
 }
 
-nameQuestion()
-
+printNameQuestion()
+// I included print for the name because the function should describe what the function does.
 
 // EX 2:
-function addThreeNums(first, second, third) {
-var sum = first + second + third
-console.log(sum);
+function add(num1, num2, num3) {
+var sum = num1 + num2 + num3
+console.log (sum);
       }
 
-addThreeNums(1, 2, 3);
-addThreeNums(4, 2, 7);
+add(1, 2, 3);
+add(4, 2, 7);
 
+// I name changes to shorten the name for a more clear definition of the function. addThreeNumbers in the original is verboise.
 
 // EX 3:
-func makeFreshPesto(){
+func makeFreshPesto() {
   console.log("Buy ingredients: basil, parmesan, romano, olive oil, pine nuts, garlic, salt, pepper");
   console.log("Pulse basil and pine nuts");
   console.log("Add garlic and cheeses");
   console.log("Slowly pour in oil");
   console.log("Season");    }
 
+Functions makeFreshPest(){
+
+}
+
 makeFreshPesto();
 
 
 //  EX 4:
-function average(num1, num2) 
-  {
-var sum = num1 + num2;
-    var avg = sum / 2;
+//function average(num1, num2) {
+  //var sum = num1 + num2;
+   // var avg = sum / 2;
 
-  console.log(`the average is: ${avg}`.)
-  }
+  //console.log(`the average is: ${avg}`.)
+ // }
+ Function avg(num1 ,num2){
+  var average = (num1 + num2)/2;
+  return average;}
+  
+console.log(avg(num1,num2));
+ 
+  // The original code syntax didn't work to run the code. I added a return average s
