@@ -1,6 +1,7 @@
 # Self Evaluation
 
-- Reflect on your time management and awareness of where you spend time. Is this a strength or area you are working on? What support do you need in this area? And/or, what tips do you have to share with your classmates in this area?
-- How would you explain to a 5 year old what a function is?
-- Share your understanding of arguments and parameters.
-- What questions/topics (related to Functions) do you want to being to your Small Group?
+- Reflect on your time management and awareness of where you spend time. Is this a strength or area you are working on? What support do you need in this area? And/or, what tips do you have to share with your classmates in this area? **This is an area I was really struggling in. I am definitely working on time management and taking breaks when I get stuck and reaching out for support. This assignment went much smoother by taking a set break and, I clarified with a classmate at the beginning to make sure I was doing things correctly.**
+- How would you explain to a 5 year old what a function is? **A function is what we use when we want to do the same thing over and over to make it faster. For example a function you might use is to to make a code to put your toys away and not have to do it piece by piece, you could just tell the computer, "Put my toys away." and list what toys you want to put away and it would know the steps to do it**
+- Share your understanding of arguments and parameters. **Arguments and parameters are still a little confusing to me. They seem very similar and I'm having a hard time sorting out the difference. Here's what I understand so far: parameters are what we use after we declare the function with (). They are like variables. Arguments are what we put in to run the function. So at the end we put in the code name with the argument we want to run the function. They are the actual data**
+- What questions/topics (related to Functions) do you want to being to your Small Group? **Return Function is still very confusing to me. Clarification for my understanding between arguments and parameters as well. The beginning part was also ambiguous, so I'd like to make sure I cleaned up the code correctly.**
+
