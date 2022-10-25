@@ -34,7 +34,8 @@ function makeFreshPesto() {
   console.log("Pulse basil and pine nuts");
   console.log("Add garlic and cheeses");
   console.log("Slowly pour in oil");
-  console.log("Season");    }
+  console.log("Season");
+}
 
 makeFreshPesto();
 
@@ -53,7 +54,8 @@ makeFreshPesto();
  function average(num1, num2) {
   var avg = num1 + num2/ 2;
   console.log(`the average is: ${avg}.`);
-  }
+  
+}
 
   average(4,8);
 
