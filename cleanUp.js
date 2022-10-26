@@ -8,18 +8,19 @@
 
 
 // EX 1:
-function printNameQuestion() {
+function nameQuestion() {
   console.log("Hello, what is your name?");
 }
 
-printNameQuestion()
+nameQuestion();
+
 // I included print for the name because the function should describe what the function does and use a verb for the action.
 // I also added a ; after console.log for formatting
 
 // EX 2:
 function add(num1, num2, num3) {
-var sum = num1 + num2 + num3
-console.log (sum);
+  var sum = num1 + num2 + num3
+  console.log (sum);
 }
 
 add(1, 2, 3);
@@ -51,13 +52,12 @@ makeFreshPesto();
 
   //console.log(`the average is: ${avg}`.)
  // }
- function average(num1, num2) {
-  var avg = num1 + num2/ 2;
-  console.log(`the average is: ${avg}.`);
-  
+function average(num1, num2) {
+    var avg = num1 + num2/ 2;
+    console.log(`the average is: ${avg}.`);
 }
 
-  average(4,8);
+average(4,8);
 
  
   // The original code syntax didn't work to run the code. I changed the bracket formatting so it would run.
